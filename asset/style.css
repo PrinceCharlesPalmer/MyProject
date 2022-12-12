@@ -468,7 +468,7 @@ input{
 
  @media only screen and (max-width:375px) and (min-width:280px){
     main{
-       width: 400px;
+       width: 375px;
     }
 body{
 
@@ -625,16 +625,11 @@ color: #FFFFFF
     height: 750px;
     
 }
-
 .footer-content img{
-display: none;
+ display: none;
 }
 
-.footer-content svg{
-    margin-bottom: -0.1rem;
- margin-left:1rem;
-    
-}
+
 
 .box{
     display: flex;
@@ -668,6 +663,24 @@ display: none;
     display: none;
 }
 
+.top-wrapper3 img{
+    display: none;
+
+}
+
+.down-wrapper3 img{
+    display: none;
+} 
+
+.down-wrapper3 svg{
+    margin-top: -0.1rem;
+}
+
+
+.mobile-bottom-mobile svg{
+    margin-bottom: 0.8rem;
+ 
+}
 
 .down-wrapper img{
     display: inline;
