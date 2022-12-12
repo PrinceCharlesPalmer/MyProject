@@ -12,7 +12,8 @@
     overflow: hidden;
  }  
  
- .header{
+ .header{ 
+
     width: 1297px;
  }
 
@@ -702,7 +703,7 @@ font-size: 20px;
 line-height: 30px;
 text-align: center;
 color: #00252E;
-margin-bottom: 4rem;
+margin-bottom: 2rem;
 } 
 
 .middle-wrapper-content1  span{
@@ -714,6 +715,8 @@ margin-bottom: 4rem;
     line-height: 21px;
     color: #00252E;
     width: 320px;
+    margin-bottom: 8rem;
+
    
 }
 
