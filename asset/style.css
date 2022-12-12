@@ -686,6 +686,38 @@ color: #FFFFFF
     display: inline;
 
 }
+.middle-wrapper2 img{
+    width: 265.5px;
+    height: 189px;
+    display: flex;
+    position: relative;
+    bottom: 8rem; 
+} 
+
+.middle-wrapper-content1 h1{
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+color: #00252E;
+margin-bottom: 4rem;
+} 
+
+.middle-wrapper-content1  span{
+    display: flex;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #00252E;
+    width: 320px;
+   
+}
+
+
 .last-section-middle-paragraph span{
     display: flex;
     align-items: center;
